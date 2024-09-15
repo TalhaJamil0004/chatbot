@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chatbot/static/css/main.7cc4f30e.css",
-    "main.js": "/chatbot/static/js/main.cc830723.js",
+    "main.css": "/chatbot/static/css/main.eae479ce.css",
+    "main.js": "/chatbot/static/js/main.acd2407e.js",
     "static/media/ChatGPT-Logo.svg.png": "/chatbot/static/media/ChatGPT-Logo.svg.2a76ddce44bc91ee2377.png",
     "static/media/download.png": "/chatbot/static/media/download.26e218ff7a625544a8e1.png",
     "index.html": "/chatbot/index.html",
-    "main.7cc4f30e.css.map": "/chatbot/static/css/main.7cc4f30e.css.map",
-    "main.cc830723.js.map": "/chatbot/static/js/main.cc830723.js.map"
+    "main.eae479ce.css.map": "/chatbot/static/css/main.eae479ce.css.map",
+    "main.acd2407e.js.map": "/chatbot/static/js/main.acd2407e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cc4f30e.css",
-    "static/js/main.cc830723.js"
+    "static/css/main.eae479ce.css",
+    "static/js/main.acd2407e.js"
   ]
 }
